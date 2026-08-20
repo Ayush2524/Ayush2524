@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Ayush V Awatade</h1>
 <h3 align="center">Tech Co-Founder at Novare Talent Private Limited</h3>
 
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Ayush's github activity graph" />
-  </a>
-</p>
-
 
 - 🔭 I’m currently working on **ArenaX, a competitive and collaborative coding, and AI upskilling platform**
 
